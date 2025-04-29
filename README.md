@@ -1,7 +1,3 @@
-Here's a possible GitHub bio for the MSCC Applications Support project:
-
----
-
 **MSCC Applications Support**  
 Advancing Materials and Computational Chemistry through High-Performance Computing 🚀  
 
@@ -16,6 +12,4 @@ Join us in revolutionizing the scientific world. Check out our repositories and 
 📂 **Test Input Dataset**: [MSCC Test Input Dataset](https://github.com/mscc07/mscc-testinput)  
 🎥 **Training Resources**: [MSCC Training Materials](http://www.youtube.com/@mscctraining)
 
----
 
-How does this look? Would you like to make any adjustments?
